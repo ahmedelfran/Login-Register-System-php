@@ -1,6 +1,6 @@
 # Login-Register-System
 
-### login and register system with user profile / avatar image and profile update using html css php mysql database
+### login and register system with user profile /image and profile update using php and mysql database
 
 <div>
     <br>
